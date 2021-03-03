@@ -1,4 +1,5 @@
 <p align="center">
+  <br>
   <img src="https://media.tenor.com/images/96c8c3ef9b2760ab7c31c93bc7f604ee/tenor.gif" width="30%">
   <br><br>
   <samp>
@@ -7,8 +8,8 @@
 </p>
 <p align="center">
   ⭐️ Follow me!
-  <br>
-  <img style="padding-top: 0.5rem;"src="https://img.shields.io/github/followers/stangahh?label=stangahh&style=flat-square"/>
+  <br><br>
+  <img src="https://img.shields.io/github/followers/stangahh?label=stangahh&style=flat-square"/>
 </p>
 
 ## Languages I know
